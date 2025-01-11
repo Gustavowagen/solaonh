@@ -27,7 +27,7 @@ class aboutSection extends Component{
 								<div className="col-xl-3 col-lg-3 col-md-6">
 									<div className="widget widget_info">
 										<div className="footer-logo">
-											<Link to="/"><img src={Logo} alt=""/></Link>
+											<Link to="/"><img src={Logo} alt="" style={{width:"75%"}}/></Link>
 										</div>
 										<div className="ft-contact">
 											<p>Sola øre nese hals klinikk</p>

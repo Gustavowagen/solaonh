@@ -4,6 +4,7 @@ import Sticky from 'react-stickynode';
 
 // Images
 import logo from '../../images/logo.png';
+import "./header.css";
 
 const Header = () => {
 	
@@ -117,7 +118,7 @@ const Header = () => {
 				<div className="menu-bar clearfix">
 					<div className="container-fluid clearfix">
 						<div className="menu-logo logo-dark" style={{width:"80px"}}>
-							<Link to="/"><img src={logo} alt=""/></Link>
+							<Link to="/"><img src={logo} alt="" id='header-logo-img'/></Link>
 						</div>
 						
 						<button className={`navbar-toggler collapsed menuicon justify-content-end ${isMenuOpen ? 'open' : ''}`}
@@ -186,7 +187,6 @@ const Header = () => {
 				</div>
 			</Sticky>
 		</header>
-	
 	);
 }
 
