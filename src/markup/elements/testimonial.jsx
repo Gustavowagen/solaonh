@@ -23,7 +23,7 @@ class testimonialSection extends Component{
 						<div>
 							<div className="col-lg-6 text-center">
 								<div className="thumb-wraper">
-								<div style={{width:"60vw"}}><iframe title='location-map' width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=720&amp;height=600&amp;hl=en&amp;q=Solakrossen%2017,%204050%20Sola+(Sola%20%C3%B8re%20nese%20hals%20klinikk)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps systems</a></iframe></div>
+								<div style={{width:"75vw"}}><iframe title='location-map' width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=720&amp;height=600&amp;hl=en&amp;q=Solakrossen%2017,%204050%20Sola+(Sola%20%C3%B8re%20nese%20hals%20klinikk)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps systems</a></iframe></div>
 								</div>
 							</div>
 						</div>	 
