@@ -4,7 +4,6 @@ import {Link} from 'react-router-dom';
 // Elements
 import AboutSection from "../elements/about";
 import LatestNewsSection from "../elements/latest-news-slider";
-import FeatureSection3 from "../elements/feature-section3";
 import TestimonialSection from "../elements/testimonial";
 
 // Import Images
