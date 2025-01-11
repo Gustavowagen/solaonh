@@ -1,0 +1,12 @@
+#booking-container {
+    display: flex !important;
+    flex-direction: column;
+    max-width: 400px;
+    font-size: large;
+}
+
+
+#center-div-booking {
+    display: flex;
+    justify-content: center;
+}

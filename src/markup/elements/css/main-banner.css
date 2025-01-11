@@ -1,0 +1,18 @@
+.main-view-el {
+    margin-top: 10px;
+}
+
+@media (max-width:576px) {
+    #doctor1-img {
+        display: none;
+    }    
+}
+
+
+@media (max-width:575px) {
+    #doctor1-img {
+        display: none;
+        width: 50%;
+        margin: 0 auto;
+    }    
+}
