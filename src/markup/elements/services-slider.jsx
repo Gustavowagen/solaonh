@@ -52,7 +52,7 @@ class ServicesSliderSection extends Component{
 								<div className="slider-item">
 									<div className="feature-container feature-bx2 feature1">
 										<div className="feature-box-xl mb-30" style={{display:'flex', justifyContent:'center', alignItems:"center"}}>
-											<img src={earIcon}/>
+											<img src={earIcon} alt=''/>
 											
 										</div>
 										<div className="icon-content">
