@@ -7,7 +7,6 @@ import bnrImg1 from "../../images/banner/img1.jpg";
 import waveBlue from "../../images/shap/wave-blue.png";
 import circleDots from "../../images/shap/circle-dots.png";
 import plusBlue from "../../images/shap/plus-blue.png";
-import servicesPic1 from "../../images/services/pic1.jpg";
 import pdf from "../../images/icon/pdf.png";
 import doc from "../../images/icon/doc.png";
 
@@ -16,7 +15,6 @@ class ServiceDetail extends Component{
 	render(){
 		return (
 			<>
-				
 				<div className="page-content bg-white">
 					
 					<div className="banner-wraper">
@@ -42,9 +40,6 @@ class ServiceDetail extends Component{
 						<div className="container">
 							<div className="row">
 								<div className="col-lg-8 mb-30">
-									<div className="ttr-media mb-30">
-										<img src={servicesPic1} className="rounded" alt=""/>
-									</div>
 									<div className="clearfix">
 										<div className="head-text mb-30">
 											<h2 className="title mb-15">Hva er øre nese hals?</h2>

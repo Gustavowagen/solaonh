@@ -15,9 +15,7 @@ class Services extends Component{
 	render(){
 		return (
 			<>
-				
 				<div className="page-content bg-white">
-					
 					<div className="banner-wraper">
 						<div className="page-banner" style={{backgroundImage: "url("+bnrImg1+")"}}>
 							<div className="container">
@@ -43,7 +41,7 @@ class Services extends Component{
 								<div className="col-lg-4 col-md-6 mb-30">
 									<div className="feature-container feature-bx2 feature1">
 										<div className="feature-box-xl mb-20">
-										<img src={earIcon} />
+										<img src={earIcon} alt=''/>
 										</div>
 										<div className="icon-content">
 											<h3 className="ttr-title">Øreskylling</h3>
@@ -131,7 +129,7 @@ class Services extends Component{
 								<div className="col-lg-4 col-md-6 mb-30">
 									<div className="feature-container feature-bx2 feature2">
 										<div className="feature-box-xl mb-20">
-											<img src={hearingAid} /> 
+											<img src={hearingAid} alt=''/> 
 										</div>
 										<div className="icon-content">
 											<h3 className="ttr-title">Hørselsmålinger og høreapparater</h3>

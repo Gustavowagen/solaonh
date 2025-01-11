@@ -89,18 +89,18 @@ const Header = () => {
 		},
 		{
 			id: 'services',
-			name: 'Services',
+			name: 'Tjenester',
 			linkName: '',
 			
 			subItems: [
 				{
 					id: 'services',
-					displayName: 'Service',
+					displayName: 'Tjenester',
 					linkName: 'services'
 				},
 				{
 					id: 'serviceDetail',
-					displayName: 'Service Detail',
+					displayName: 'Tjenester detaljer',
 					linkName: 'service-detail'
 				},
 			]
@@ -133,7 +133,7 @@ const Header = () => {
 						<div className="secondary-menu">
 							<ul>
 
-								<li className="num-bx"><a><i className="fas fa-phone-alt"></i>51 65 18 00</a></li>
+								<li className="num-bx"><a href='/'><i className="fas fa-phone-alt"></i>51 65 18 00</a></li>
 								<li className="btn-area"><Link to="/contact-us" className="btn btn-primary shadow">KONTAKT OSS <i className="btn-icon-bx fas fa-chevron-right"></i></Link></li>
 							</ul>
 						</div>

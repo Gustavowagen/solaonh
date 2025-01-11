@@ -13,9 +13,7 @@ class Faq extends Component{
 	render(){
 		return (
 			<>
-				
 				<div className="page-content bg-white">
-					
 					<div className="banner-wraper">
 						<div className="page-banner" style={{backgroundImage: "url("+bnrImg1+")"}}>
 							<div className="container">

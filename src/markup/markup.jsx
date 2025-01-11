@@ -18,8 +18,6 @@ import ServiceDetail from './pages/service-detail';
 import Faq from './pages/faq';
 import ContactUs from './pages/contact-us';
 import Booking from './pages/booking';
-import BlogGrid from './pages/blog-grid';
-import BlogDetails from './pages/blog-details';
 
 class Markup extends Component{
 
