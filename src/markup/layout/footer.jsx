@@ -58,7 +58,7 @@ class aboutSection extends Component{
 										<h3 className="footer-title">Vår tjeneste</h3>
 										<ul>
 											<li><Link to="/service-detail"><span>Tjeneste detaljer</span></Link></li>
-											<li><Link to="/services"><span>Cardiac Clinic</span></Link></li>
+											<li><Link to="/services"><span>Tjenester</span></Link></li>
 										</ul>
 									</div>
 								</div>

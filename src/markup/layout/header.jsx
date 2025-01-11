@@ -4,7 +4,6 @@ import Sticky from 'react-stickynode';
 
 // Images
 import logo from '../../images/logo.png';
-import logoWhite from '../../images/logo-white.png';
 
 const Header = () => {
 	
@@ -140,7 +139,7 @@ const Header = () => {
 						
 						<div className={`menu-links navbar-collapse collapse justify-content-end ${isMenuOpen ? 'show' : ''}`} id="menuDropdown">
 							<div className="menu-logo">
-								<Link to="/"><img src={logoWhite} alt=""/></Link>
+								<Link to="/"><img src={logo} alt=""/></Link>
 							</div>
 							
 							<ul className="nav navbar-nav">	
